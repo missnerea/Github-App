@@ -2,6 +2,6 @@ export class User {
  name:string;
  bio:string;
  organization:string;
- repositoryname:string;
+ repositorylist:string;
  repositorydescription:string;
 }
